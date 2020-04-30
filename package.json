@@ -1,0 +1,17 @@
+{
+  "name": "KhanAcademyBot",
+  "description": "KhanBot",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "engines": {
+    "node": "10.0.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "request": "^1.0.0",
+    "express": "^4.16.3"
+  }
+}
